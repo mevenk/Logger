@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Venkatesh
+Class-Path: log4j-api-2.10.0.jar log4j-core-2.10.0.jar cucumber-java-1
+ .2.5.jar cucumber-core-1.2.5.jar cucumber-jvm-deps-1.0.5.jar gherkin-
+ 2.12.2.jar cucumber-testng-1.2.5.jar testng-6.9.10.jar jcommander-1.4
+ 8.jar bsh-2.0b4.jar cucumber-java8-1.2.5.jar cucumber-html-0.2.6.jar
+Build-Jdk: 1.8.0_151
+Created-By: Maven Integration for Eclipse
+Main-Class: mevenk.logging.tracker.runner.RunLogTracker
+
